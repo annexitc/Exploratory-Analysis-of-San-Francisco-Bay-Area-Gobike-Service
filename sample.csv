@@ -1,0 +1,501 @@
+start_station_id,start_station_name,end_station_id,end_station_name,bike_id,user_type,member_gender,bike_share,distance,start_weekday,duration_minutes,user_age
+43,San Francisco Public Library (Grove St at Hyde St),74,Laguna St at Hayes St,293,Subscriber,Male,No,0.94,Monday,7,55
+126,Esprit Park,50,2nd St at Townsend St,4617,Customer,Male,No,2.1,Saturday,12,23
+77,11th St at Natoma St,17,Embarcadero BART Station (Beale St at Market St),4831,Subscriber,Female,No,2.67,Monday,15,28
+120,Mission Dolores Park,147,29th St at Tiffany Ave,5404,Subscriber,Male,No,1.98,Sunday,8,44
+196,Grand Ave at Perkins St,182,19th Street BART Station,1734,Customer,Male,No,1.04,Tuesday,5,33
+21,Montgomery St BART Station (Market St at 2nd St),67,San Francisco Caltrain Station 2  (Townsend St at 4th St),5565,Customer,Male,No,1.52,Saturday,9,28
+28,The Embarcadero at Bryant St,90,Townsend St at 7th St,293,Subscriber,Male,No,2.2,Friday,11,37
+233,4th Ave at E 12th St (Temporary Location),163,Lake Merritt BART Station,4542,Subscriber,Female,No,0.87,Tuesday,4,24
+286,San Carlos St at 11th St,316,San Salvador St at 1st St,71,Subscriber,Female,No,1.07,Sunday,9,62
+21,Montgomery St BART Station (Market St at 2nd St),6,The Embarcadero at Sansome St,6332,Subscriber,Male,No,1.7,Thursday,6,44
+243,Bancroft Way at College Ave,253,Haste St at College Ave,4855,Subscriber,Other,Yes,0.33,Monday,2,22
+126,Esprit Park,14,Clay St at Battery St,3658,Customer,Male,No,3.8,Wednesday,25,35
+67,San Francisco Caltrain Station 2  (Townsend St at 4th St),74,Laguna St at Hayes St,4567,Subscriber,Other,No,2.7,Thursday,14,34
+27,Beale St at Harrison St,17,Embarcadero BART Station (Beale St at Market St),5233,Subscriber,Male,No,0.65,Monday,3,35
+67,San Francisco Caltrain Station 2  (Townsend St at 4th St),61,Howard St at 8th St,4795,Subscriber,Female,No,1.39,Friday,8,23
+363,Salesforce Transit Center (Natoma St at 2nd St),30,San Francisco Caltrain (Townsend St at 4th St),4928,Subscriber,Male,No,1.24,Tuesday,6,40
+112,Harrison St at 17th St,106,Sanchez St at 17th St,5901,Subscriber,Male,Yes,1.55,Monday,9,37
+223,16th St Mission BART Station 2,356,Valencia St at Clinton Park,5136,Subscriber,Female,No,0.53,Wednesday,4,34
+362,Lane St at Revere Ave,363,Salesforce Transit Center (Natoma St at 2nd St),4947,Subscriber,Male,No,6.24,Tuesday,24,35
+175,49th St at Telegraph Ave,273,Fulton St at Ashby Ave,5435,Subscriber,Male,No,2.19,Sunday,10,40
+371,Lombard St at Columbus Ave,14,Clay St at Battery St,6326,Subscriber,Male,No,1.47,Sunday,5,25
+146,30th St at San Jose Ave,6,The Embarcadero at Sansome St,5417,Subscriber,Male,No,7.16,Friday,31,32
+28,The Embarcadero at Bryant St,66,3rd St at Townsend St,5304,Subscriber,Male,No,1.02,Sunday,4,30
+190,West St at 40th St,181,Grand Ave at Webster St,927,Subscriber,Male,No,2.16,Wednesday,14,29
+43,San Francisco Public Library (Grove St at Hyde St),75,Market St at Franklin St,157,Subscriber,Male,No,0.72,Thursday,6,41
+365,Turk St at Fillmore St,10,Washington St at Kearny St,5358,Subscriber,Male,No,2.91,Thursday,11,29
+92,Mission Bay Kids Park,25,Howard St at 2nd St,5825,Customer,Male,No,1.74,Monday,8,42
+50,2nd St at Townsend St,30,San Francisco Caltrain (Townsend St at 4th St),1699,Subscriber,Male,No,0.62,Friday,2,54
+5,Powell St BART Station (Market St at 5th St),383,Golden Gate Ave at Franklin St,4836,Subscriber,Female,Yes,1.23,Sunday,55,26
+25,Howard St at 2nd St,30,San Francisco Caltrain (Townsend St at 4th St),5340,Subscriber,Male,No,1.23,Monday,11,49
+27,Beale St at Harrison St,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),5149,Subscriber,Female,No,1.31,Wednesday,7,37
+126,Esprit Park,114,Rhode Island St at 17th St,6365,Customer,Male,No,1.09,Tuesday,7,23
+386,24th St at Bartlett St,133,Valencia St at 22nd St,6089,Subscriber,Male,No,0.36,Thursday,3,57
+243,Bancroft Way at College Ave,249,Russell St at College Ave,4646,Subscriber,Female,Yes,1.21,Thursday,4,42
+17,Embarcadero BART Station (Beale St at Market St),3,Powell St BART Station (Market St at 4th St),6528,Customer,Male,No,0.95,Monday,6,60
+123,Folsom St at 19th St,99,Folsom St at 15th St,400,Customer,Female,No,0.72,Thursday,4,25
+22,Howard St at Beale St,28,The Embarcadero at Bryant St,2473,Subscriber,Female,No,0.64,Monday,5,47
+29,O'Farrell St at Divisadero St,53,Grove St at Divisadero,4806,Subscriber,Male,No,0.73,Friday,2,35
+373,Potrero del Sol Park (25th St at Utah St),85,Church St at Duboce Ave,5328,Subscriber,Other,Yes,2.93,Tuesday,21,55
+22,Howard St at Beale St,115,Jackson Playground,5964,Customer,Male,No,2.77,Thursday,16,40
+286,San Carlos St at 11th St,313,Almaden Blvd at San Fernando St,3928,Subscriber,Male,No,1.57,Tuesday,7,41
+285,Webster St at O'Farrell St,74,Laguna St at Hayes St,5319,Subscriber,Male,No,0.9,Wednesday,6,31
+14,Clay St at Battery St,371,Lombard St at Columbus Ave,5916,Subscriber,Male,No,1.47,Tuesday,7,25
+189,Genoa St at 55th St,181,Grand Ave at Webster St,5456,Customer,Male,No,3.2,Wednesday,13,37
+90,Townsend St at 7th St,350,8th St at Brannan St,3676,Subscriber,Male,No,0.27,Saturday,4,44
+24,Spear St at Folsom St,11,Davis St at Jackson St,5577,Subscriber,Male,No,1.1,Thursday,5,50
+85,Church St at Duboce Ave,58,Market St at 10th St,1052,Subscriber,Male,No,1.26,Monday,9,19
+141,Valencia St at Cesar Chavez St,137,Jersey St at Castro St,5468,Subscriber,Female,No,1.24,Monday,7,30
+106,Sanchez St at 17th St,139,Garfield Square (25th St at Harrison St),4745,Customer,Male,No,2.14,Sunday,12,32
+271,San Pablo Park,258,University Ave at Oxford St,4673,Subscriber,Female,No,2.35,Sunday,22,35
+139,Garfield Square (25th St at Harrison St),44,Civic Center/UN Plaza BART Station (Market St at McAllister St),6092,Subscriber,Male,No,3.34,Sunday,13,34
+195,Bay Pl at Vernon St,197,El Embarcadero at Grand Ave,6425,Subscriber,Male,No,1.05,Saturday,4,32
+285,Webster St at O'Farrell St,10,Washington St at Kearny St,6512,Subscriber,Male,No,2.67,Wednesday,12,29
+74,Laguna St at Hayes St,4,Cyril Magnin St at Ellis St,6195,Subscriber,Male,No,1.85,Saturday,7,29
+356,Valencia St at Clinton Park,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),3670,Subscriber,Male,No,2.49,Tuesday,12,38
+303,San Pedro St at Hedding St,291,Autumn Parkway at Coleman Ave,2599,Subscriber,Male,No,1.27,Thursday,11,54
+173,Shattuck Ave at 55th St,171,Rockridge BART Station,5513,Subscriber,Female,No,1.19,Tuesday,7,29
+15,San Francisco Ferry Building (Harry Bridges Plaza),81,Berry St at 4th St,5305,Subscriber,Male,No,2.17,Tuesday,11,27
+324,Union Square (Powell St at Post St),5,Powell St BART Station (Market St at 5th St),5193,Subscriber,Male,No,0.49,Sunday,24,33
+217,27th St at MLK Jr Way,183,Telegraph Ave at 19th St,786,Subscriber,Male,No,0.94,Monday,4,31
+3,Powell St BART Station (Market St at 4th St),22,Howard St at Beale St,472,Subscriber,Female,No,0.98,Sunday,7,49
+363,Salesforce Transit Center (Natoma St at 2nd St),15,San Francisco Ferry Building (Harry Bridges Plaza),4852,Subscriber,Male,No,0.95,Monday,6,48
+123,Folsom St at 19th St,110,17th & Folsom Street Park (17th St at Folsom St),5470,Subscriber,Male,No,0.35,Tuesday,1,26
+64,5th St at Brannan St,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),5864,Subscriber,Male,No,0.31,Thursday,3,69
+28,The Embarcadero at Bryant St,96,Dolores St at 15th St,2119,Subscriber,Male,No,4.11,Wednesday,29,34
+239,Bancroft Way at Telegraph Ave,247,Fulton St at Bancroft Way,1246,Customer,Male,No,0.64,Thursday,3,19
+305,Ryland Park,310,San Fernando St at 4th St,2244,Subscriber,Male,Yes,1.16,Thursday,9,24
+90,Townsend St at 7th St,43,San Francisco Public Library (Grove St at Hyde St),5382,Subscriber,Male,No,1.44,Saturday,10,26
+14,Clay St at Battery St,50,2nd St at Townsend St,479,Subscriber,Male,No,1.82,Thursday,12,35
+79,7th St at Brannan St,44,Civic Center/UN Plaza BART Station (Market St at McAllister St),5848,Customer,Other,No,1.1,Saturday,4,36
+66,3rd St at Townsend St,58,Market St at 10th St,5912,Subscriber,Male,No,2.18,Monday,13,29
+11,Davis St at Jackson St,43,San Francisco Public Library (Grove St at Hyde St),5959,Subscriber,Male,No,2.57,Thursday,12,48
+321,5th St at Folsom,3,Powell St BART Station (Market St at 4th St),5487,Subscriber,Male,No,0.71,Saturday,7,50
+124,19th St at Florida St,23,The Embarcadero at Steuart St,5332,Subscriber,Male,No,3.86,Friday,14,30
+64,5th St at Brannan St,5,Powell St BART Station (Market St at 5th St),1014,Subscriber,Male,No,1.15,Wednesday,9,55
+59,S Van Ness Ave at Market St,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),6115,Subscriber,Male,No,2.07,Thursday,10,52
+20,Mechanics Monument Plaza (Market St at Bush St),27,Beale St at Harrison St,5031,Subscriber,Male,No,0.73,Friday,4,35
+58,Market St at 10th St,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),4743,Subscriber,Male,No,1.92,Friday,9,24
+125,20th St at Bryant St,144,Precita Park,4373,Subscriber,Male,No,1.33,Wednesday,6,35
+95,Sanchez St at 15th St,3,Powell St BART Station (Market St at 4th St),1544,Subscriber,Male,No,3.21,Tuesday,10,30
+13,Commercial St at Montgomery St,106,Sanchez St at 17th St,6400,Subscriber,Male,No,4.22,Monday,18,38
+66,3rd St at Townsend St,26,1st St at Folsom St,6083,Customer,Male,No,0.96,Friday,6,36
+249,Russell St at College Ave,188,Dover St at 57th St,920,Subscriber,Other,No,2.17,Thursday,12,57
+92,Mission Bay Kids Park,371,Lombard St at Columbus Ave,5250,Subscriber,Male,No,3.84,Monday,19,43
+182,19th Street BART Station,196,Grand Ave at Perkins St,1074,Customer,Male,No,1.04,Saturday,6,34
+17,Embarcadero BART Station (Beale St at Market St),58,Market St at 10th St,6220,Subscriber,Male,No,2.49,Thursday,10,27
+107,17th St at Dolores St,118,Eureka Valley Recreation Center,5534,Subscriber,Male,No,1.01,Saturday,5,43
+385,Woolsey St at Sacramento St,255,Virginia St at Shattuck Ave,4562,Subscriber,Male,No,2.99,Saturday,10,36
+44,Civic Center/UN Plaza BART Station (Market St at McAllister St),58,Market St at 10th St,5274,Subscriber,Male,No,0.7,Wednesday,4,23
+255,Virginia St at Shattuck Ave,247,Fulton St at Bancroft Way,5106,Subscriber,Male,Yes,1.03,Tuesday,7,22
+88,11th St at Bryant St,134,Valencia St at 24th St,5354,Subscriber,Male,No,2.11,Tuesday,12,26
+49,S Park St at 3rd St,47,4th St at Harrison St,6492,Subscriber,Male,No,0.42,Monday,27,31
+89,Division St at Potrero Ave,80,Townsend St at 5th St,2825,Subscriber,Male,No,1.12,Friday,4,33
+339,Jackson St at 11th St,232,MLK Jr Way at 14th St,4642,Subscriber,Female,No,1.09,Thursday,4,45
+16,Steuart St at Market St,91,Berry St at King St,5855,Subscriber,Male,No,2.51,Tuesday,10,30
+246,Berkeley Civic Center,351,10th St at University Ave,4673,Subscriber,Male,No,2.01,Monday,16,40
+58,Market St at 10th St,3,Powell St BART Station (Market St at 4th St),5299,Subscriber,Female,No,1.54,Monday,5,19
+370,Jones St at Post St,4,Cyril Magnin St at Ellis St,4902,Subscriber,Male,No,0.42,Saturday,9,34
+323,Broadway at Kearny,21,Montgomery St BART Station (Market St at 2nd St),6555,Subscriber,Other,No,1.04,Wednesday,11,32
+323,Broadway at Kearny,3,Powell St BART Station (Market St at 4th St),4944,Customer,Male,No,1.3,Sunday,18,39
+116,Mississippi St at 17th St,17,Embarcadero BART Station (Beale St at Market St),6209,Subscriber,Female,No,3.06,Monday,17,30
+340,Harmon St at Adeline St,18,Telegraph Ave at Alcatraz Ave,3596,Subscriber,Female,No,0.92,Sunday,5,32
+72,Page St at Scott St,119,18th St at Noe St,6113,Subscriber,Male,No,1.29,Saturday,6,32
+30,San Francisco Caltrain (Townsend St at 4th St),15,San Francisco Ferry Building (Harry Bridges Plaza),6323,Customer,Male,No,2.09,Friday,12,44
+179,Telegraph Ave at 27th St,182,19th Street BART Station,6034,Subscriber,Other,No,0.79,Thursday,28,45
+102,Irwin St at 8th St,97,14th St at Mission St,4610,Subscriber,Male,No,1.81,Tuesday,7,43
+47,4th St at Harrison St,30,San Francisco Caltrain (Townsend St at 4th St),1044,Subscriber,Male,No,0.62,Tuesday,3,36
+74,Laguna St at Hayes St,58,Market St at 10th St,5762,Subscriber,Other,No,0.78,Tuesday,5,45
+108,16th St Mission BART,336,Potrero Ave and Mariposa St,5312,Subscriber,Male,No,1.12,Sunday,4,32
+23,The Embarcadero at Steuart St,30,San Francisco Caltrain (Townsend St at 4th St),5421,Subscriber,Male,No,1.69,Friday,6,58
+67,San Francisco Caltrain Station 2  (Townsend St at 4th St),44,Civic Center/UN Plaza BART Station (Market St at McAllister St),5218,Subscriber,Male,No,1.51,Wednesday,7,38
+17,Embarcadero BART Station (Beale St at Market St),323,Broadway at Kearny,5454,Subscriber,Male,No,1.01,Sunday,5,45
+274,Oregon St at Adeline St,239,Bancroft Way at Telegraph Ave,1376,Subscriber,Female,No,1.47,Monday,13,22
+92,Mission Bay Kids Park,285,Webster St at O'Farrell St,5319,Subscriber,Male,No,3.58,Tuesday,21,40
+86,Market St at Dolores St,84,Duboce Park,5340,Subscriber,Female,No,0.61,Monday,5,35
+13,Commercial St at Montgomery St,21,Montgomery St BART Station (Market St at 2nd St),1537,Subscriber,Female,No,0.54,Monday,5,38
+145,29th St at Church St,58,Market St at 10th St,6394,Subscriber,Male,No,3.75,Wednesday,13,35
+6,The Embarcadero at Sansome St,15,San Francisco Ferry Building (Harry Bridges Plaza),5369,Subscriber,Female,No,1.31,Saturday,8,30
+133,Valencia St at 22nd St,147,29th St at Tiffany Ave,4741,Subscriber,Male,No,1.24,Saturday,6,43
+67,San Francisco Caltrain Station 2  (Townsend St at 4th St),11,Davis St at Jackson St,6434,Subscriber,Male,No,2.31,Thursday,12,53
+124,19th St at Florida St,137,Jersey St at Castro St,4923,Subscriber,Male,No,2.32,Sunday,13,27
+61,Howard St at 8th St,90,Townsend St at 7th St,6498,Subscriber,Female,No,0.97,Tuesday,4,31
+25,Howard St at 2nd St,49,S Park St at 3rd St,5128,Subscriber,Female,No,0.78,Tuesday,5,35
+75,Market St at Franklin St,369,Hyde St at Post St,3688,Customer,Male,No,1.56,Friday,21,30
+66,3rd St at Townsend St,369,Hyde St at Post St,5588,Subscriber,Male,Yes,2.31,Thursday,16,41
+157,65th St at Hollis St,259,Addison St at Fourth St,5119,Customer,Female,No,2.28,Sunday,46,31
+67,San Francisco Caltrain Station 2  (Townsend St at 4th St),89,Division St at Potrero Ave,4814,Subscriber,Male,No,1.35,Thursday,7,30
+350,8th St at Brannan St,109,17th St at Valencia St,4370,Subscriber,Female,No,1.68,Wednesday,11,33
+47,4th St at Harrison St,92,Mission Bay Kids Park,1597,Subscriber,Female,No,1.13,Wednesday,8,29
+239,Bancroft Way at Telegraph Ave,256,Hearst Ave at Euclid Ave,4510,Subscriber,Male,No,0.72,Wednesday,5,32
+102,Irwin St at 8th St,6,The Embarcadero at Sansome St,5358,Subscriber,Male,No,4.23,Friday,16,31
+100,Bryant St at 15th St,139,Garfield Square (25th St at Harrison St),6220,Subscriber,Male,No,1.79,Tuesday,14,47
+141,Valencia St at Cesar Chavez St,60,8th St at Ringold St,1353,Subscriber,Male,No,3.1,Wednesday,19,52
+66,3rd St at Townsend St,27,Beale St at Harrison St,5912,Subscriber,Male,No,1.04,Thursday,4,34
+86,Market St at Dolores St,20,Mechanics Monument Plaza (Market St at Bush St),5351,Customer,Male,No,3.46,Tuesday,14,37
+343,Bryant St at 2nd St,15,San Francisco Ferry Building (Harry Bridges Plaza),4369,Subscriber,Female,No,1.36,Tuesday,8,51
+66,3rd St at Townsend St,97,14th St at Mission St,4344,Subscriber,Male,No,2.67,Wednesday,11,45
+23,The Embarcadero at Steuart St,9,Broadway at Battery St,1445,Subscriber,Male,No,1.17,Monday,6,49
+107,17th St at Dolores St,349,Howard St at Mary St,3446,Subscriber,Other,No,2.71,Tuesday,15,23
+25,Howard St at 2nd St,60,8th St at Ringold St,6268,Subscriber,Male,No,1.79,Friday,7,31
+43,San Francisco Public Library (Grove St at Hyde St),31,Raymond Kimbell Playground,2033,Subscriber,Male,No,1.73,Thursday,7,31
+58,Market St at 10th St,21,Montgomery St BART Station (Market St at 2nd St),5402,Customer,Male,No,2.05,Thursday,9,26
+219,Marston Campbell Park,7,Frank H Ogawa Plaza,5879,Subscriber,Female,No,0.95,Thursday,4,39
+166,College Ave at Alcatraz Ave,213,32nd St at Adeline St,1375,Subscriber,Female,Yes,3.96,Tuesday,23,45
+7,Frank H Ogawa Plaza,219,Marston Campbell Park,3440,Subscriber,Female,No,0.95,Thursday,4,28
+58,Market St at 10th St,44,Civic Center/UN Plaza BART Station (Market St at McAllister St),4850,Subscriber,Female,No,0.7,Friday,4,58
+223,16th St Mission BART Station 2,127,Valencia St at 21st St,5272,Subscriber,Male,No,0.9,Thursday,5,35
+43,San Francisco Public Library (Grove St at Hyde St),77,11th St at Natoma St,6104,Subscriber,Male,No,0.59,Sunday,5,44
+324,Union Square (Powell St at Post St),343,Bryant St at 2nd St,5274,Subscriber,Male,No,1.43,Friday,8,26
+58,Market St at 10th St,126,Esprit Park,6133,Subscriber,Male,No,2.88,Tuesday,15,33
+178,Broadway at 30th St,158,Shattuck Ave at Telegraph Ave,5648,Subscriber,Male,No,1.55,Thursday,9,60
+144,Precita Park,124,19th St at Florida St,5387,Customer,Male,No,1.46,Tuesday,6,32
+60,8th St at Ringold St,93,4th St at Mission Bay Blvd S,5032,Subscriber,Male,No,1.67,Friday,10,36
+112,Harrison St at 17th St,97,14th St at Mission St,2549,Subscriber,Male,No,0.79,Friday,5,31
+255,Virginia St at Shattuck Ave,239,Bancroft Way at Telegraph Ave,5119,Subscriber,Male,No,1.28,Tuesday,8,22
+133,Valencia St at 22nd St,109,17th St at Valencia St,5166,Subscriber,Male,No,0.9,Thursday,3,28
+6,The Embarcadero at Sansome St,23,The Embarcadero at Steuart St,4574,Subscriber,Male,No,1.83,Monday,7,36
+17,Embarcadero BART Station (Beale St at Market St),93,4th St at Mission Bay Blvd S,5213,Subscriber,Male,Yes,2.48,Thursday,15,23
+109,17th St at Valencia St,223,16th St Mission BART Station 2,5220,Subscriber,Female,No,0.23,Wednesday,8,37
+24,Spear St at Folsom St,6,The Embarcadero at Sansome St,5273,Subscriber,Male,No,2.02,Friday,20,20
+114,Rhode Island St at 17th St,81,Berry St at 4th St,5322,Subscriber,Male,No,1.51,Tuesday,7,31
+355,23rd St at Tennessee St,27,Beale St at Harrison St,4370,Subscriber,Female,No,3.65,Thursday,19,26
+105,16th St at Prosper St,84,Duboce Park,4738,Subscriber,Male,No,0.57,Tuesday,2,54
+58,Market St at 10th St,370,Jones St at Post St,5149,Subscriber,Female,No,1.24,Tuesday,8,19
+336,Potrero Ave and Mariposa St,120,Mission Dolores Park,6116,Subscriber,Female,No,1.69,Monday,8,35
+30,San Francisco Caltrain (Townsend St at 4th St),36,Folsom St at 3rd St,3377,Subscriber,Male,No,0.86,Monday,7,50
+88,11th St at Bryant St,75,Market St at Franklin St,5912,Subscriber,Male,No,0.94,Wednesday,4,32
+386,24th St at Bartlett St,122,19th St at Mission St,3101,Subscriber,Male,No,0.91,Sunday,4,37
+41,Golden Gate Ave at Polk St,383,Golden Gate Ave at Franklin St,685,Subscriber,Male,No,0.29,Monday,2,52
+11,Davis St at Jackson St,6,The Embarcadero at Sansome St,6477,Subscriber,Female,No,0.93,Friday,6,23
+125,20th St at Bryant St,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),5531,Subscriber,Male,No,2.31,Wednesday,9,42
+356,Valencia St at Clinton Park,56,Koshland Park,5134,Subscriber,Male,No,0.65,Tuesday,5,27
+74,Laguna St at Hayes St,123,Folsom St at 19th St,6343,Customer,Female,No,2.03,Wednesday,19,23
+200,2nd Ave at E 18th St,201,10th St at Fallon St,5563,Subscriber,Male,No,0.86,Wednesday,6,32
+310,San Fernando St at 4th St,296,5th St at Virginia St,3851,Subscriber,Male,Yes,1.33,Friday,8,27
+324,Union Square (Powell St at Post St),16,Steuart St at Market St,5142,Subscriber,Other,No,1.4,Wednesday,8,29
+118,Eureka Valley Recreation Center,16,Steuart St at Market St,4941,Customer,Male,No,5.39,Monday,26,50
+349,Howard St at Mary St,78,Folsom St at 9th St,3224,Subscriber,Female,No,0.97,Friday,8,20
+22,Howard St at Beale St,9,Broadway at Battery St,1846,Subscriber,Male,No,1.12,Tuesday,6,32
+81,Berry St at 4th St,17,Embarcadero BART Station (Beale St at Market St),518,Customer,Male,No,1.85,Tuesday,12,59
+23,The Embarcadero at Steuart St,121,Mission Playground,3109,Subscriber,Female,No,4.47,Tuesday,40,58
+181,Grand Ave at Webster St,196,Grand Ave at Perkins St,1966,Subscriber,Male,No,0.82,Wednesday,5,42
+285,Webster St at O'Farrell St,58,Market St at 10th St,6351,Subscriber,Male,No,1.43,Tuesday,9,48
+171,Rockridge BART Station,256,Hearst Ave at Euclid Ave,5176,Subscriber,Male,No,3.51,Wednesday,13,26
+36,Folsom St at 3rd St,355,23rd St at Tennessee St,2644,Subscriber,Female,No,3.29,Saturday,21,25
+211,Broadway at 40th St,176,MacArthur BART Station,4549,Subscriber,Male,No,0.85,Friday,4,46
+16,Steuart St at Market St,104,4th St at 16th St,266,Customer,Female,No,3.03,Thursday,21,46
+27,Beale St at Harrison St,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),5481,Customer,Female,No,1.31,Tuesday,9,43
+99,Folsom St at 15th St,15,San Francisco Ferry Building (Harry Bridges Plaza),4983,Subscriber,Male,No,3.66,Thursday,18,39
+64,5th St at Brannan St,350,8th St at Brannan St,6096,Subscriber,Male,No,0.84,Tuesday,4,31
+132,24th St at Chattanooga St,62,Victoria Manalo Draves Park,5205,Customer,Female,No,3.39,Tuesday,16,32
+3,Powell St BART Station (Market St at 4th St),87,Folsom St at 13th St,4399,Customer,Male,No,2.08,Sunday,11,38
+187,Jack London Square,200,2nd Ave at E 18th St,5435,Subscriber,Female,No,2.29,Thursday,13,30
+194,Lakeshore Ave at Trestle Glen Rd,193,Grand Ave at Santa Clara Ave,2975,Subscriber,Male,No,0.39,Thursday,34,32
+317,San Salvador St at 9th St,357,2nd St at Julian St,6607,Subscriber,Male,Yes,1.59,Wednesday,8,24
+253,Haste St at College Ave,266,Parker St at Fulton St,4485,Subscriber,Male,Yes,1.06,Tuesday,5,20
+371,Lombard St at Columbus Ave,16,Steuart St at Market St,5055,Subscriber,Male,No,1.94,Friday,8,26
+91,Berry St at King St,116,Mississippi St at 17th St,5431,Subscriber,Male,No,0.84,Saturday,4,31
+237,Fruitvale BART Station,227,Foothill Blvd at Fruitvale Ave,362,Subscriber,Male,Yes,0.96,Wednesday,5,30
+77,11th St at Natoma St,80,Townsend St at 5th St,75,Subscriber,Male,No,1.65,Monday,15,31
+102,Irwin St at 8th St,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),2198,Subscriber,Female,No,1.14,Tuesday,7,56
+114,Rhode Island St at 17th St,131,22nd St at Dolores St,5013,Subscriber,Male,No,2.29,Tuesday,15,58
+72,Page St at Scott St,98,Valencia St at 16th St,2310,Subscriber,Male,No,1.46,Friday,8,32
+21,Montgomery St BART Station (Market St at 2nd St),343,Bryant St at 2nd St,5566,Subscriber,Male,No,0.96,Friday,6,34
+310,San Fernando St at 4th St,294,Pierce Ave at Market St,1979,Subscriber,Male,No,0.93,Tuesday,6,34
+104,4th St at 16th St,15,San Francisco Ferry Building (Harry Bridges Plaza),140,Customer,Female,No,3.17,Wednesday,12,39
+67,San Francisco Caltrain Station 2  (Townsend St at 4th St),22,Howard St at Beale St,4820,Subscriber,Male,No,1.46,Monday,12,43
+147,29th St at Tiffany Ave,119,18th St at Noe St,5230,Subscriber,Male,No,2.13,Saturday,9,48
+44,Civic Center/UN Plaza BART Station (Market St at McAllister St),59,S Van Ness Ave at Market St,4762,Subscriber,Male,Yes,0.94,Thursday,6,35
+357,2nd St at Julian St,280,San Fernando St at 7th St,4299,Subscriber,Male,Yes,0.96,Monday,6,25
+239,Bancroft Way at Telegraph Ave,244,Shattuck Ave at Hearst Ave,4605,Subscriber,Male,No,1.01,Thursday,6,22
+78,Folsom St at 9th St,36,Folsom St at 3rd St,4947,Subscriber,Male,No,1.59,Monday,6,34
+239,Bancroft Way at Telegraph Ave,256,Hearst Ave at Euclid Ave,4672,Subscriber,Male,No,0.72,Thursday,8,22
+119,18th St at Noe St,134,Valencia St at 24th St,4799,Subscriber,Male,No,1.43,Saturday,7,41
+5,Powell St BART Station (Market St at 5th St),15,San Francisco Ferry Building (Harry Bridges Plaza),4370,Subscriber,Male,Yes,1.79,Friday,8,48
+67,San Francisco Caltrain Station 2  (Townsend St at 4th St),78,Folsom St at 9th St,5859,Subscriber,Female,No,1.45,Thursday,7,25
+131,22nd St at Dolores St,383,Golden Gate Ave at Franklin St,6536,Subscriber,Male,No,2.89,Monday,10,57
+93,4th St at Mission Bay Blvd S,16,Steuart St at Market St,6394,Subscriber,Male,No,2.65,Thursday,11,39
+3,Powell St BART Station (Market St at 4th St),11,Davis St at Jackson St,4554,Subscriber,Male,No,1.34,Saturday,8,23
+44,Civic Center/UN Plaza BART Station (Market St at McAllister St),115,Jackson Playground,3057,Subscriber,Female,No,2.12,Thursday,15,28
+17,Embarcadero BART Station (Beale St at Market St),3,Powell St BART Station (Market St at 4th St),6300,Subscriber,Male,No,0.95,Thursday,7,45
+16,Steuart St at Market St,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),5163,Subscriber,Male,No,1.95,Monday,10,35
+130,22nd St Caltrain Station,100,Bryant St at 15th St,5332,Subscriber,Male,No,1.97,Monday,12,24
+123,Folsom St at 19th St,99,Folsom St at 15th St,1603,Subscriber,Male,No,0.72,Thursday,3,35
+339,Jackson St at 11th St,183,Telegraph Ave at 19th St,4704,Subscriber,Male,No,1.01,Friday,9,39
+310,San Fernando St at 4th St,278,The Alameda at Bush St,3901,Subscriber,Male,Yes,1.76,Tuesday,9,23
+182,19th Street BART Station,194,Lakeshore Ave at Trestle Glen Rd,6190,Subscriber,Female,No,2.21,Saturday,11,40
+16,Steuart St at Market St,81,Berry St at 4th St,6492,Subscriber,Male,No,2.03,Wednesday,7,27
+102,Irwin St at 8th St,61,Howard St at 8th St,4936,Subscriber,Female,No,1.49,Wednesday,9,31
+285,Webster St at O'Farrell St,34,Father Alfred E Boeddeker Park,4835,Subscriber,Male,Yes,1.65,Friday,6,32
+377,Fell St at Stanyan St,371,Lombard St at Columbus Ave,4606,Subscriber,Male,No,4.92,Sunday,49,20
+386,24th St at Bartlett St,136,23rd St at San Bruno Ave,4814,Subscriber,Male,Yes,1.38,Monday,6,49
+15,San Francisco Ferry Building (Harry Bridges Plaza),28,The Embarcadero at Bryant St,4651,Subscriber,Male,No,1.06,Friday,36,57
+285,Webster St at O'Farrell St,3,Powell St BART Station (Market St at 4th St),6458,Subscriber,Female,No,2.33,Saturday,14,30
+90,Townsend St at 7th St,98,Valencia St at 16th St,4758,Customer,Male,No,1.81,Saturday,14,25
+67,San Francisco Caltrain Station 2  (Townsend St at 4th St),11,Davis St at Jackson St,6434,Subscriber,Male,No,2.31,Thursday,12,53
+81,Berry St at 4th St,60,8th St at Ringold St,6227,Subscriber,Male,No,1.44,Saturday,11,27
+219,Marston Campbell Park,183,Telegraph Ave at 19th St,4489,Subscriber,Male,No,0.91,Friday,4,29
+137,Jersey St at Castro St,383,Golden Gate Ave at Franklin St,4400,Subscriber,Female,No,3.53,Friday,19,31
+43,San Francisco Public Library (Grove St at Hyde St),102,Irwin St at 8th St,1286,Subscriber,Male,No,1.95,Tuesday,9,30
+370,Jones St at Post St,88,11th St at Bryant St,3710,Subscriber,Female,No,1.93,Sunday,10,25
+195,Bay Pl at Vernon St,210,45th St at Manila,3367,Subscriber,Male,No,2.37,Wednesday,12,36
+280,San Fernando St at 7th St,296,5th St at Virginia St,4218,Subscriber,Female,Yes,1.35,Monday,11,24
+243,Bancroft Way at College Ave,248,Telegraph Ave at Ashby Ave,5192,Subscriber,Male,No,1.57,Sunday,5,22
+386,24th St at Bartlett St,63,Bryant St at 6th St,4835,Subscriber,Male,No,3.05,Friday,17,38
+114,Rhode Island St at 17th St,109,17th St at Valencia St,6169,Subscriber,Male,No,1.7,Sunday,7,43
+61,Howard St at 8th St,31,Raymond Kimbell Playground,802,Subscriber,Male,No,2.2,Thursday,17,54
+284,Yerba Buena Center for the Arts (Howard St at 3rd St),74,Laguna St at Hayes St,4399,Subscriber,Female,No,2.42,Saturday,18,28
+249,Russell St at College Ave,239,Bancroft Way at Telegraph Ave,4683,Subscriber,Female,No,1.25,Saturday,6,29
+36,Folsom St at 3rd St,349,Howard St at Mary St,5222,Subscriber,Male,No,0.67,Monday,4,25
+6,The Embarcadero at Sansome St,17,Embarcadero BART Station (Beale St at Market St),6486,Subscriber,Male,No,1.49,Friday,6,54
+64,5th St at Brannan St,21,Montgomery St BART Station (Market St at 2nd St),5547,Subscriber,Male,No,1.44,Tuesday,15,25
+104,4th St at 16th St,16,Steuart St at Market St,4956,Subscriber,Female,No,3.03,Tuesday,13,34
+186,Lakeside Dr at 14th St,182,19th Street BART Station,5512,Subscriber,Male,No,0.99,Tuesday,7,42
+286,San Carlos St at 11th St,311,Paseo De San Antonio at 2nd St,2838,Customer,Female,No,0.96,Wednesday,6,36
+247,Fulton St at Bancroft Way,262,West St at University Ave,6023,Subscriber,Female,Yes,1.83,Thursday,9,27
+76,McCoppin St at Valencia St,109,17th St at Valencia St,844,Subscriber,Male,Yes,0.93,Sunday,6,74
+134,Valencia St at 24th St,133,Valencia St at 22nd St,4436,Subscriber,Male,No,0.31,Thursday,2,31
+310,San Fernando St at 4th St,317,San Salvador St at 9th St,4226,Subscriber,Male,No,0.77,Sunday,4,49
+252,Channing Way at Shattuck Ave,173,Shattuck Ave at 55th St,1861,Subscriber,Male,No,2.85,Sunday,12,45
+73,Pierce St at Haight St,70,Central Ave at Fell St,6514,Customer,Male,No,0.95,Friday,8,29
+70,Central Ave at Fell St,129,Harrison St at 20th St,6253,Subscriber,Female,No,3.22,Saturday,15,31
+343,Bryant St at 2nd St,36,Folsom St at 3rd St,5051,Subscriber,Female,No,0.47,Tuesday,5,54
+5,Powell St BART Station (Market St at 5th St),60,8th St at Ringold St,5262,Subscriber,Male,No,1.05,Friday,7,29
+241,Ashby BART Station,168,Alcatraz Ave at Shattuck Ave,4828,Subscriber,Male,No,0.52,Thursday,3,27
+312,San Jose Diridon Station,341,Fountain Alley at S 2nd St,3967,Subscriber,Male,No,1.32,Thursday,5,28
+200,2nd Ave at E 18th St,163,Lake Merritt BART Station,6069,Subscriber,Female,No,1.06,Monday,5,35
+256,Hearst Ave at Euclid Ave,266,Parker St at Fulton St,6451,Subscriber,Female,Yes,1.45,Thursday,5,22
+336,Potrero Ave and Mariposa St,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),1899,Subscriber,Male,No,1.81,Friday,8,25
+93,4th St at Mission Bay Blvd S,15,San Francisco Ferry Building (Harry Bridges Plaza),2875,Subscriber,Male,No,2.79,Thursday,12,31
+256,Hearst Ave at Euclid Ave,172,College Ave at Taft Ave,2111,Customer,Male,No,3.79,Sunday,27,48
+254,Vine St at Shattuck Ave,258,University Ave at Oxford St,777,Subscriber,Female,No,0.92,Thursday,5,45
+341,Fountain Alley at S 2nd St,305,Ryland Park,3892,Subscriber,Male,Yes,0.92,Friday,5,26
+139,Garfield Square (25th St at Harrison St),129,Harrison St at 20th St,4834,Subscriber,Male,No,0.87,Sunday,3,21
+22,Howard St at Beale St,321,5th St at Folsom,6472,Subscriber,Male,Yes,1.3,Wednesday,6,31
+321,5th St at Folsom,6,The Embarcadero at Sansome St,4767,Subscriber,Male,No,2.74,Tuesday,16,19
+55,Webster St at Grove St,23,The Embarcadero at Steuart St,277,Subscriber,Male,No,3.75,Friday,20,33
+195,Bay Pl at Vernon St,182,19th Street BART Station,5437,Subscriber,Female,No,0.75,Friday,5,28
+5,Powell St BART Station (Market St at 5th St),101,15th St at Potrero Ave,6266,Subscriber,Female,No,1.87,Tuesday,15,35
+88,11th St at Bryant St,98,Valencia St at 16th St,6443,Subscriber,Male,No,1.05,Wednesday,8,54
+59,S Van Ness Ave at Market St,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),3494,Customer,Male,No,2.07,Friday,10,35
+349,Howard St at Mary St,363,Salesforce Transit Center (Natoma St at 2nd St),5152,Subscriber,Male,Yes,0.97,Thursday,7,24
+239,Bancroft Way at Telegraph Ave,258,University Ave at Oxford St,1441,Customer,Other,No,0.78,Friday,4,26
+58,Market St at 10th St,133,Valencia St at 22nd St,4761,Subscriber,Male,No,2.4,Wednesday,9,56
+210,45th St at Manila,176,MacArthur BART Station,3415,Subscriber,Male,No,1.04,Wednesday,5,38
+239,Bancroft Way at Telegraph Ave,269,Telegraph Ave at Carleton St,5258,Subscriber,Female,Yes,0.72,Wednesday,5,19
+43,San Francisco Public Library (Grove St at Hyde St),101,15th St at Potrero Ave,3009,Subscriber,Male,No,1.5,Friday,7,32
+15,San Francisco Ferry Building (Harry Bridges Plaza),13,Commercial St at Montgomery St,4826,Customer,Male,No,0.78,Thursday,34,52
+274,Oregon St at Adeline St,241,Ashby BART Station,555,Subscriber,Male,No,0.61,Thursday,4,31
+50,2nd St at Townsend St,24,Spear St at Folsom St,6301,Subscriber,Female,No,1.02,Wednesday,5,20
+356,Valencia St at Clinton Park,58,Market St at 10th St,5122,Subscriber,Male,Yes,0.93,Thursday,11,56
+67,San Francisco Caltrain Station 2  (Townsend St at 4th St),23,The Embarcadero at Steuart St,4569,Subscriber,Male,No,1.7,Wednesday,6,53
+249,Russell St at College Ave,243,Bancroft Way at College Ave,4548,Subscriber,Female,No,1.21,Thursday,7,21
+277,Morrison Ave at Julian St,310,San Fernando St at 4th St,4030,Subscriber,Male,Yes,2.04,Wednesday,7,24
+104,4th St at 16th St,137,Jersey St at Castro St,6638,Subscriber,Female,No,4.21,Friday,26,28
+98,Valencia St at 16th St,42,San Francisco City Hall (Polk St at Grove St),4836,Subscriber,Female,No,1.55,Saturday,11,26
+280,San Fernando St at 7th St,357,2nd St at Julian St,3930,Subscriber,Male,Yes,0.96,Friday,6,25
+377,Fell St at Stanyan St,43,San Francisco Public Library (Grove St at Hyde St),5175,Subscriber,Male,No,3.41,Saturday,13,39
+25,Howard St at 2nd St,61,Howard St at 8th St,6228,Subscriber,Female,No,1.73,Tuesday,6,32
+56,Koshland Park,58,Market St at 10th St,5230,Subscriber,Male,No,0.94,Tuesday,4,53
+349,Howard St at Mary St,80,Townsend St at 5th St,2321,Subscriber,Male,No,0.97,Friday,5,46
+381,20th St at Dolores St,369,Hyde St at Post St,5749,Customer,Male,No,3.34,Tuesday,16,41
+371,Lombard St at Columbus Ave,21,Montgomery St BART Station (Market St at 2nd St),4955,Subscriber,Male,No,1.84,Thursday,8,54
+256,Hearst Ave at Euclid Ave,239,Bancroft Way at Telegraph Ave,5509,Subscriber,Male,Yes,0.72,Friday,5,22
+15,San Francisco Ferry Building (Harry Bridges Plaza),114,Rhode Island St at 17th St,5057,Subscriber,Male,No,3.52,Friday,16,32
+327,5th St at San Salvador St,275,Julian St at 6th St,3796,Subscriber,Male,No,1.37,Wednesday,8,56
+175,49th St at Telegraph Ave,153,59th St at Horton St,1107,Subscriber,Female,No,2.61,Friday,16,39
+28,The Embarcadero at Bryant St,30,San Francisco Caltrain (Townsend St at 4th St),1686,Subscriber,Female,No,1.33,Wednesday,9,40
+23,The Embarcadero at Steuart St,126,Esprit Park,3226,Customer,Male,No,3.32,Wednesday,21,33
+53,Grove St at Divisadero,140,Cesar Chavez St at Dolores St,5520,Customer,Male,No,3.32,Sunday,20,28
+16,Steuart St at Market St,3,Powell St BART Station (Market St at 4th St),5898,Subscriber,Male,No,1.26,Sunday,7,26
+51,Parker Ave at McAllister St,71,Broderick St at Oak St,5038,Subscriber,Male,No,1.28,Thursday,8,31
+129,Harrison St at 20th St,108,16th St Mission BART,4397,Subscriber,Male,No,0.92,Sunday,5,37
+84,Duboce Park,323,Broadway at Kearny,5524,Subscriber,Male,No,4.03,Friday,17,31
+49,S Park St at 3rd St,3,Powell St BART Station (Market St at 4th St),209,Subscriber,Male,No,1.07,Friday,5,44
+67,San Francisco Caltrain Station 2  (Townsend St at 4th St),36,Folsom St at 3rd St,5416,Subscriber,Male,No,0.85,Friday,12,33
+58,Market St at 10th St,109,17th St at Valencia St,868,Subscriber,Female,No,1.53,Wednesday,10,20
+78,Folsom St at 9th St,349,Howard St at Mary St,2426,Subscriber,Female,No,0.97,Friday,10,21
+238,MLK Jr Way at University Ave,270,Ninth St at Heinz Ave,529,Subscriber,Female,No,2.48,Friday,19,26
+305,Ryland Park,280,San Fernando St at 7th St,3792,Subscriber,Male,Yes,1.26,Wednesday,8,26
+267,Derby St at College Ave,243,Bancroft Way at College Ave,2747,Subscriber,Male,No,0.84,Wednesday,5,22
+196,Grand Ave at Perkins St,195,Bay Pl at Vernon St,4897,Subscriber,Male,No,0.54,Sunday,2,30
+78,Folsom St at 9th St,22,Howard St at Beale St,6560,Subscriber,Male,No,2.33,Tuesday,9,33
+27,Beale St at Harrison St,80,Townsend St at 5th St,4610,Subscriber,Female,No,1.51,Thursday,7,43
+182,19th Street BART Station,196,Grand Ave at Perkins St,4872,Subscriber,Male,No,1.04,Wednesday,4,32
+41,Golden Gate Ave at Polk St,20,Mechanics Monument Plaza (Market St at Bush St),4795,Subscriber,Male,No,2.06,Thursday,12,44
+41,Golden Gate Ave at Polk St,345,Hubbell St at 16th St,5530,Subscriber,Male,No,2.44,Wednesday,8,28
+256,Hearst Ave at Euclid Ave,240,Haste St at Telegraph Ave,2115,Subscriber,Male,Yes,1.02,Tuesday,7,24
+23,The Embarcadero at Steuart St,114,Rhode Island St at 17th St,4825,Subscriber,Male,No,3.17,Tuesday,12,39
+126,Esprit Park,6,The Embarcadero at Sansome St,5936,Subscriber,Male,No,4.92,Monday,17,40
+63,Bryant St at 6th St,64,5th St at Brannan St,124,Subscriber,Other,No,0.33,Wednesday,2,35
+315,Market St at 45th St,252,Channing Way at Shattuck Ave,595,Subscriber,Male,No,3.56,Sunday,19,22
+245,Downtown Berkeley BART,256,Hearst Ave at Euclid Ave,5197,Subscriber,Male,No,0.88,Tuesday,6,32
+90,Townsend St at 7th St,116,Mississippi St at 17th St,5221,Subscriber,Female,No,0.99,Friday,5,35
+265,Ninth St at Parker St,192,37th St at West St,5094,Subscriber,Male,No,3.96,Thursday,15,28
+20,Mechanics Monument Plaza (Market St at Bush St),284,Yerba Buena Center for the Arts (Howard St at 3rd St),5175,Subscriber,Male,No,0.73,Tuesday,4,26
+241,Ashby BART Station,269,Telegraph Ave at Carleton St,5214,Subscriber,Male,No,1.48,Tuesday,8,22
+102,Irwin St at 8th St,23,The Embarcadero at Steuart St,5234,Customer,Male,No,2.83,Wednesday,15,25
+86,Market St at Dolores St,118,Eureka Valley Recreation Center,4655,Subscriber,Male,No,1.44,Saturday,6,54
+139,Garfield Square (25th St at Harrison St),93,4th St at Mission Bay Blvd S,5298,Subscriber,Female,No,2.82,Wednesday,13,37
+350,8th St at Brannan St,100,Bryant St at 15th St,4998,Subscriber,Male,No,0.64,Thursday,4,35
+285,Webster St at O'Farrell St,60,8th St at Ringold St,5132,Subscriber,Male,No,2.15,Saturday,15,32
+90,Townsend St at 7th St,134,Valencia St at 24th St,4734,Subscriber,Male,No,2.6,Monday,14,25
+386,24th St at Bartlett St,127,Valencia St at 21st St,3462,Subscriber,Female,No,0.52,Saturday,3,36
+308,San Pedro Square,280,San Fernando St at 7th St,2211,Subscriber,Female,Yes,0.96,Monday,7,25
+6,The Embarcadero at Sansome St,13,Commercial St at Montgomery St,5570,Subscriber,Female,No,1.17,Wednesday,9,41
+296,5th St at Virginia St,299,Bestor Art Park,3828,Subscriber,Male,No,0.37,Tuesday,45,36
+182,19th Street BART Station,211,Broadway at 40th St,4864,Subscriber,Male,No,2.32,Tuesday,21,32
+7,Frank H Ogawa Plaza,219,Marston Campbell Park,5161,Subscriber,Female,No,0.95,Tuesday,5,28
+14,Clay St at Battery St,6,The Embarcadero at Sansome St,4803,Subscriber,Female,Yes,1.12,Thursday,8,45
+278,The Alameda at Bush St,309,San Jose City Hall,6197,Subscriber,Male,Yes,1.69,Friday,15,26
+55,Webster St at Grove St,3,Powell St BART Station (Market St at 4th St),4821,Subscriber,Male,No,2.4,Monday,10,25
+280,San Fernando St at 7th St,296,5th St at Virginia St,3842,Subscriber,Male,Yes,1.35,Monday,10,24
+77,11th St at Natoma St,89,Division St at Potrero Ave,6472,Subscriber,Male,No,0.88,Tuesday,6,54
+230,14th St at Mandela Pkwy,211,Broadway at 40th St,5135,Subscriber,Male,No,3.59,Monday,13,32
+310,San Fernando St at 4th St,312,San Jose Diridon Station,3929,Subscriber,Male,No,1.58,Wednesday,7,44
+43,San Francisco Public Library (Grove St at Hyde St),60,8th St at Ringold St,1031,Subscriber,Male,No,0.74,Tuesday,4,42
+43,San Francisco Public Library (Grove St at Hyde St),74,Laguna St at Hayes St,4369,Subscriber,Male,No,0.94,Thursday,7,41
+124,19th St at Florida St,60,8th St at Ringold St,4734,Subscriber,Male,No,1.57,Friday,7,47
+121,Mission Playground,119,18th St at Noe St,5020,Subscriber,Male,No,1.01,Sunday,5,37
+19,Post St at Kearny St,89,Division St at Potrero Ave,1338,Subscriber,Male,No,2.23,Thursday,12,39
+106,Sanchez St at 17th St,59,S Van Ness Ave at Market St,6230,Subscriber,Male,No,1.65,Tuesday,7,33
+370,Jones St at Post St,74,Laguna St at Hayes St,5221,Subscriber,Male,No,1.66,Tuesday,9,22
+88,11th St at Bryant St,26,1st St at Folsom St,341,Subscriber,Male,No,2.45,Thursday,14,36
+14,Clay St at Battery St,15,San Francisco Ferry Building (Harry Bridges Plaza),1285,Subscriber,Male,No,0.51,Tuesday,3,28
+19,Post St at Kearny St,92,Mission Bay Kids Park,4602,Subscriber,Male,No,2.07,Friday,10,39
+195,Bay Pl at Vernon St,339,Jackson St at 11th St,2277,Subscriber,Male,No,1.46,Sunday,12,40
+146,30th St at San Jose Ave,131,22nd St at Dolores St,5843,Subscriber,Male,No,1.43,Saturday,7,31
+30,San Francisco Caltrain (Townsend St at 4th St),26,1st St at Folsom St,6216,Subscriber,Male,No,1.19,Monday,9,22
+101,15th St at Potrero Ave,6,The Embarcadero at Sansome St,5560,Subscriber,Male,No,4.21,Friday,16,38
+31,Raymond Kimbell Playground,3,Powell St BART Station (Market St at 4th St),4742,Customer,Female,No,2.62,Saturday,22,32
+171,Rockridge BART Station,170,Telegraph Ave at 58th St,5121,Subscriber,Male,No,0.83,Thursday,6,49
+85,Church St at Duboce Ave,5,Powell St BART Station (Market St at 5th St),5221,Subscriber,Male,No,2.38,Wednesday,11,32
+163,Lake Merritt BART Station,200,2nd Ave at E 18th St,4874,Customer,Male,No,1.06,Monday,8,40
+249,Russell St at College Ave,246,Berkeley Civic Center,958,Subscriber,Female,No,1.92,Tuesday,15,18
+105,16th St at Prosper St,88,11th St at Bryant St,5325,Subscriber,Male,No,1.88,Sunday,7,35
+44,Civic Center/UN Plaza BART Station (Market St at McAllister St),90,Townsend St at 7th St,1390,Customer,Female,No,1.37,Wednesday,20,31
+50,2nd St at Townsend St,21,Montgomery St BART Station (Market St at 2nd St),4967,Subscriber,Male,No,1.37,Thursday,7,44
+33,Golden Gate Ave at Hyde St,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),79,Subscriber,Male,No,1.83,Thursday,9,36
+116,Mississippi St at 17th St,126,Esprit Park,5345,Customer,Female,No,0.51,Monday,10,20
+341,Fountain Alley at S 2nd St,327,5th St at San Salvador St,4226,Subscriber,Male,Yes,0.81,Friday,5,26
+373,Potrero del Sol Park (25th St at Utah St),130,22nd St Caltrain Station,5065,Subscriber,Male,No,1.31,Monday,6,27
+350,8th St at Brannan St,30,San Francisco Caltrain (Townsend St at 4th St),4832,Customer,Other,No,1.09,Wednesday,6,31
+67,San Francisco Caltrain Station 2  (Townsend St at 4th St),343,Bryant St at 2nd St,4994,Subscriber,Male,No,0.75,Tuesday,4,26
+315,Market St at 45th St,181,Grand Ave at Webster St,6397,Subscriber,Male,No,2.63,Thursday,12,29
+30,San Francisco Caltrain (Townsend St at 4th St),100,Bryant St at 15th St,5351,Subscriber,Male,No,1.72,Friday,11,30
+121,Mission Playground,386,24th St at Bartlett St,5302,Subscriber,Male,Yes,0.8,Tuesday,4,46
+369,Hyde St at Post St,144,Precita Park,5125,Subscriber,Male,No,4.48,Saturday,15,31
+266,Parker St at Fulton St,239,Bancroft Way at Telegraph Ave,4788,Subscriber,Male,No,0.88,Thursday,5,22
+19,Post St at Kearny St,92,Mission Bay Kids Park,5910,Subscriber,Male,No,2.07,Tuesday,12,39
+36,Folsom St at 3rd St,30,San Francisco Caltrain (Townsend St at 4th St),5055,Subscriber,Male,No,0.86,Wednesday,9,47
+87,Folsom St at 13th St,134,Valencia St at 24th St,5560,Customer,Female,No,1.98,Thursday,13,29
+30,San Francisco Caltrain (Townsend St at 4th St),22,Howard St at Beale St,1285,Subscriber,Male,No,1.46,Thursday,11,44
+126,Esprit Park,104,4th St at 16th St,1423,Subscriber,Male,No,0.6,Thursday,2,56
+77,11th St at Natoma St,9,Broadway at Battery St,4797,Subscriber,Male,No,3.09,Thursday,16,31
+294,Pierce Ave at Market St,312,San Jose Diridon Station,5643,Subscriber,Male,No,1.54,Wednesday,7,26
+92,Mission Bay Kids Park,34,Father Alfred E Boeddeker Park,4464,Subscriber,Male,Yes,2.14,Saturday,10,48
+107,17th St at Dolores St,106,Sanchez St at 17th St,3592,Subscriber,Male,No,0.37,Wednesday,2,28
+108,16th St Mission BART,101,15th St at Potrero Ave,5304,Subscriber,Male,No,1.14,Friday,8,22
+323,Broadway at Kearny,22,Howard St at Beale St,2978,Subscriber,Male,No,1.35,Wednesday,6,38
+133,Valencia St at 22nd St,61,Howard St at 8th St,6136,Subscriber,Male,No,2.52,Friday,11,35
+247,Fulton St at Bancroft Way,266,Parker St at Fulton St,4509,Subscriber,Female,No,0.6,Monday,3,21
+130,22nd St Caltrain Station,104,4th St at 16th St,5159,Subscriber,Female,No,1.09,Tuesday,6,34
+197,El Embarcadero at Grand Ave,195,Bay Pl at Vernon St,5772,Customer,Male,No,1.05,Saturday,6,30
+281,9th St at San Fernando St,279,Santa Clara St at 7th St,3858,Subscriber,Male,Yes,0.3,Tuesday,3,20
+61,Howard St at 8th St,345,Hubbell St at 16th St,5084,Subscriber,Male,No,1.6,Monday,6,32
+105,16th St at Prosper St,118,Eureka Valley Recreation Center,5571,Subscriber,Male,No,0.73,Friday,8,46
+53,Grove St at Divisadero,52,McAllister St at Baker St,5451,Subscriber,Male,Yes,0.39,Wednesday,2,45
+67,San Francisco Caltrain Station 2  (Townsend St at 4th St),21,Montgomery St BART Station (Market St at 2nd St),649,Subscriber,Male,No,1.52,Tuesday,11,40
+30,San Francisco Caltrain (Townsend St at 4th St),21,Montgomery St BART Station (Market St at 2nd St),4997,Subscriber,Male,No,1.53,Friday,8,32
+23,The Embarcadero at Steuart St,81,Berry St at 4th St,6554,Subscriber,Female,No,1.74,Tuesday,10,41
+25,Howard St at 2nd St,30,San Francisco Caltrain (Townsend St at 4th St),4381,Subscriber,Male,No,1.23,Friday,9,34
+101,15th St at Potrero Ave,122,19th St at Mission St,3721,Subscriber,Female,No,1.26,Friday,11,31
+27,Beale St at Harrison St,17,Embarcadero BART Station (Beale St at Market St),5398,Subscriber,Male,No,0.65,Wednesday,4,58
+58,Market St at 10th St,21,Montgomery St BART Station (Market St at 2nd St),5405,Subscriber,Male,No,2.05,Tuesday,10,25
+284,Yerba Buena Center for the Arts (Howard St at 3rd St),60,8th St at Ringold St,4610,Subscriber,Female,No,1.38,Sunday,10,29
+245,Downtown Berkeley BART,256,Hearst Ave at Euclid Ave,6050,Customer,Male,No,0.88,Thursday,8,21
+253,Haste St at College Ave,166,College Ave at Alcatraz Ave,5103,Subscriber,Male,No,1.68,Sunday,5,22
+211,Broadway at 40th St,156,Stanford Ave at Hollis St,5683,Subscriber,Female,No,3.05,Sunday,20,56
+64,5th St at Brannan St,5,Powell St BART Station (Market St at 5th St),167,Subscriber,Other,No,1.15,Tuesday,6,36
+202,Washington St at 8th St,219,Marston Campbell Park,677,Subscriber,Male,Yes,1.11,Wednesday,6,26
+58,Market St at 10th St,41,Golden Gate Ave at Polk St,6140,Customer,Male,No,0.53,Sunday,20,26
+243,Bancroft Way at College Ave,240,Haste St at Telegraph Ave,4640,Subscriber,Male,Yes,0.54,Saturday,2,22
+67,San Francisco Caltrain Station 2  (Townsend St at 4th St),102,Irwin St at 8th St,5719,Subscriber,Male,No,1.14,Thursday,8,29
+255,Virginia St at Shattuck Ave,267,Derby St at College Ave,4829,Subscriber,Male,No,2.16,Thursday,10,30
+3,Powell St BART Station (Market St at 4th St),47,4th St at Harrison St,2784,Subscriber,Male,No,0.75,Friday,3,24
+244,Shattuck Ave at Hearst Ave,256,Hearst Ave at Euclid Ave,5661,Subscriber,Male,No,0.71,Wednesday,4,21
+81,Berry St at 4th St,23,The Embarcadero at Steuart St,377,Subscriber,Male,No,1.74,Thursday,9,35
+277,Morrison Ave at Julian St,310,San Fernando St at 4th St,4048,Subscriber,Male,Yes,2.04,Monday,10,21
+50,2nd St at Townsend St,14,Clay St at Battery St,6504,Subscriber,Male,No,1.82,Thursday,10,36
+23,The Embarcadero at Steuart St,92,Mission Bay Kids Park,5173,Customer,Male,No,2.14,Wednesday,12,38
+147,29th St at Tiffany Ave,109,17th St at Valencia St,6207,Subscriber,Male,No,2.14,Thursday,43,31
+98,Valencia St at 16th St,78,Folsom St at 9th St,5515,Subscriber,Male,No,1.32,Saturday,6,32
+123,Folsom St at 19th St,21,Montgomery St BART Station (Market St at 2nd St),4926,Subscriber,Female,No,3.45,Monday,17,26
+250,North Berkeley BART Station,238,MLK Jr Way at University Ave,4754,Subscriber,Male,No,0.9,Wednesday,7,40
+30,San Francisco Caltrain (Townsend St at 4th St),349,Howard St at Mary St,4319,Subscriber,Male,No,1.04,Thursday,4,37
+195,Bay Pl at Vernon St,182,19th Street BART Station,5510,Subscriber,Female,No,0.75,Wednesday,4,34
+250,North Berkeley BART Station,259,Addison St at Fourth St,4539,Subscriber,Male,No,1.64,Monday,7,40
+123,Folsom St at 19th St,131,22nd St at Dolores St,5010,Subscriber,Male,No,1.14,Sunday,7,29
+27,Beale St at Harrison St,66,3rd St at Townsend St,2105,Subscriber,Male,No,1.04,Tuesday,7,34
+81,Berry St at 4th St,15,San Francisco Ferry Building (Harry Bridges Plaza),4747,Subscriber,Male,No,2.17,Saturday,10,57
+171,Rockridge BART Station,175,49th St at Telegraph Ave,5118,Subscriber,Male,No,1.31,Tuesday,8,31
+21,Montgomery St BART Station (Market St at 2nd St),44,Civic Center/UN Plaza BART Station (Market St at McAllister St),4975,Subscriber,Male,No,1.35,Wednesday,9,21
+6,The Embarcadero at Sansome St,23,The Embarcadero at Steuart St,5037,Subscriber,Male,No,1.83,Saturday,7,25
+204,55th St at Telegraph Ave,158,Shattuck Ave at Telegraph Ave,4754,Subscriber,Male,No,0.78,Sunday,2,51
+245,Downtown Berkeley BART,252,Channing Way at Shattuck Ave,328,Subscriber,Male,No,0.48,Wednesday,3,29
+123,Folsom St at 19th St,81,Berry St at 4th St,4939,Subscriber,Female,No,2.55,Monday,15,29
+58,Market St at 10th St,43,San Francisco Public Library (Grove St at Hyde St),6293,Subscriber,Male,No,0.27,Thursday,2,34
+231,14th St at Filbert St,160,West Oakland BART Station,4781,Subscriber,Male,No,1.08,Thursday,5,29
+239,Bancroft Way at Telegraph Ave,274,Oregon St at Adeline St,4807,Customer,Male,No,1.47,Thursday,6,31
+89,Division St at Potrero Ave,368,Myrtle St at Polk St,4716,Subscriber,Male,No,2.09,Wednesday,8,27
+176,MacArthur BART Station,149,Emeryville Town Hall,616,Subscriber,Male,No,1.73,Thursday,8,56
+59,S Van Ness Ave at Market St,73,Pierce St at Haight St,4968,Subscriber,Male,No,1.34,Wednesday,8,31
+9,Broadway at Battery St,77,11th St at Natoma St,5431,Subscriber,Male,No,3.09,Monday,14,31
+97,14th St at Mission St,21,Montgomery St BART Station (Market St at 2nd St),5930,Subscriber,Male,No,2.92,Wednesday,12,29
+22,Howard St at Beale St,3,Powell St BART Station (Market St at 4th St),333,Subscriber,Male,No,0.98,Saturday,7,41
+25,Howard St at 2nd St,30,San Francisco Caltrain (Townsend St at 4th St),1832,Subscriber,Male,No,1.23,Thursday,9,38
+134,Valencia St at 24th St,147,29th St at Tiffany Ave,723,Subscriber,Male,No,0.93,Thursday,6,49
+121,Mission Playground,89,Division St at Potrero Ave,6595,Subscriber,Male,No,1.64,Saturday,7,35
+155,Emeryville Public Market,259,Addison St at Fourth St,4593,Subscriber,Male,No,2.91,Saturday,17,34
+50,2nd St at Townsend St,8,The Embarcadero at Vallejo St,4778,Subscriber,Female,No,2.28,Wednesday,7,32
+78,Folsom St at 9th St,3,Powell St BART Station (Market St at 4th St),5972,Subscriber,Male,No,1.53,Wednesday,9,37
+127,Valencia St at 21st St,20,Mechanics Monument Plaza (Market St at Bush St),5250,Subscriber,Male,No,4.3,Wednesday,17,45
+58,Market St at 10th St,44,Civic Center/UN Plaza BART Station (Market St at McAllister St),4794,Subscriber,Male,No,0.7,Wednesday,10,19
+205,Miles Ave at Cavour St,207,Broadway at Coronado Ave,2292,Subscriber,Female,No,0.71,Thursday,7,39
+323,Broadway at Kearny,10,Washington St at Kearny St,4404,Subscriber,Female,No,0.31,Friday,48,21
+93,4th St at Mission Bay Blvd S,79,7th St at Brannan St,688,Subscriber,Male,No,1.15,Wednesday,5,38
+89,Division St at Potrero Ave,95,Sanchez St at 15th St,6336,Subscriber,Male,No,2.08,Wednesday,10,41
+99,Folsom St at 15th St,134,Valencia St at 24th St,4974,Customer,Female,No,1.69,Sunday,14,29
+141,Valencia St at Cesar Chavez St,144,Precita Park,6383,Subscriber,Male,No,0.78,Thursday,4,32
+349,Howard St at Mary St,9,Broadway at Battery St,5125,Customer,Male,No,2.0,Monday,25,24
+105,16th St at Prosper St,86,Market St at Dolores St,6214,Subscriber,Female,Yes,0.71,Tuesday,7,56
+377,Fell St at Stanyan St,86,Market St at Dolores St,6523,Subscriber,Male,No,2.38,Saturday,11,24
+239,Bancroft Way at Telegraph Ave,256,Hearst Ave at Euclid Ave,5270,Subscriber,Female,Yes,0.72,Wednesday,8,20
+10,Washington St at Kearny St,6,The Embarcadero at Sansome St,5552,Customer,Male,No,1.05,Thursday,10,47
+119,18th St at Noe St,137,Jersey St at Castro St,5283,Customer,Male,No,1.18,Saturday,7,30
+85,Church St at Duboce Ave,3,Powell St BART Station (Market St at 4th St),5396,Subscriber,Male,No,2.8,Wednesday,12,35
+355,23rd St at Tennessee St,98,Valencia St at 16th St,5749,Subscriber,Male,No,3.1,Saturday,20,33
+66,3rd St at Townsend St,20,Mechanics Monument Plaza (Market St at Bush St),4848,Subscriber,Male,No,1.5,Thursday,6,27
+182,19th Street BART Station,180,Telegraph Ave at 23rd St,569,Subscriber,Male,No,0.41,Friday,3,26
+141,Valencia St at Cesar Chavez St,349,Howard St at Mary St,2167,Subscriber,Male,No,3.89,Wednesday,22,31
+356,Valencia St at Clinton Park,129,Harrison St at 20th St,6536,Subscriber,Female,No,1.43,Friday,8,29
+67,San Francisco Caltrain Station 2  (Townsend St at 4th St),21,Montgomery St BART Station (Market St at 2nd St),4553,Subscriber,Male,No,1.52,Monday,7,22
+15,San Francisco Ferry Building (Harry Bridges Plaza),81,Berry St at 4th St,4983,Subscriber,Male,No,2.17,Thursday,8,34
+324,Union Square (Powell St at Post St),50,2nd St at Townsend St,5402,Subscriber,Male,No,1.82,Sunday,8,31
+130,22nd St Caltrain Station,95,Sanchez St at 15th St,2531,Subscriber,Male,No,3.57,Thursday,20,30
+123,Folsom St at 19th St,108,16th St Mission BART,2481,Subscriber,Male,No,0.64,Tuesday,5,47
+17,Embarcadero BART Station (Beale St at Market St),30,San Francisco Caltrain (Townsend St at 4th St),4874,Subscriber,Female,No,1.75,Friday,12,22
+183,Telegraph Ave at 19th St,193,Grand Ave at Santa Clara Ave,3753,Subscriber,Male,No,2.05,Wednesday,9,50
+98,Valencia St at 16th St,93,4th St at Mission Bay Blvd S,5548,Subscriber,Male,No,2.76,Sunday,31,25
+296,5th St at Virginia St,280,San Fernando St at 7th St,4010,Subscriber,Male,Yes,1.35,Tuesday,5,23
+214,Market St at Brockhurst St,176,MacArthur BART Station,5171,Subscriber,Male,No,1.0,Thursday,6,46
+25,Howard St at 2nd St,86,Market St at Dolores St,2206,Subscriber,Female,No,3.28,Friday,20,29
+58,Market St at 10th St,44,Civic Center/UN Plaza BART Station (Market St at McAllister St),3392,Subscriber,Female,No,0.7,Friday,4,43
+251,California St at University Ave,265,Ninth St at Parker St,4477,Subscriber,Female,No,1.65,Thursday,8,31
+98,Valencia St at 16th St,85,Church St at Duboce Ave,5949,Subscriber,Male,No,0.85,Sunday,6,35
+88,11th St at Bryant St,122,19th St at Mission St,477,Customer,Male,No,1.25,Friday,7,28
+253,Haste St at College Ave,246,Berkeley Civic Center,923,Subscriber,Male,No,1.5,Sunday,9,21
+28,The Embarcadero at Bryant St,15,San Francisco Ferry Building (Harry Bridges Plaza),1985,Subscriber,Male,No,1.06,Monday,4,32
+22,Howard St at Beale St,62,Victoria Manalo Draves Park,535,Subscriber,Male,No,1.69,Friday,13,24
